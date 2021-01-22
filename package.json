@@ -1,0 +1,24 @@
+{
+  "name": "demo-docker-nodejs",
+  "version": "1.0.0",
+  "description": "this nodejs demo running in docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jepoycerujano/demo-docker-nodejs.git"
+  },
+  "keywords": [
+    "docker",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "jefferson cerujano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jepoycerujano/demo-docker-nodejs/issues"
+  },
+  "homepage": "https://github.com/jepoycerujano/demo-docker-nodejs#readme"
+}
