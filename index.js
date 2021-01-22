@@ -1,0 +1,1 @@
+console.log('this is docker demo running for nodeJs');
