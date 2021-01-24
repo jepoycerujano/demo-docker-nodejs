@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jepoycerujano/demo-docker-nodejs/issues"
   },
-  "homepage": "https://github.com/jepoycerujano/demo-docker-nodejs#readme"
+  "homepage": "https://github.com/jepoycerujano/demo-docker-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
